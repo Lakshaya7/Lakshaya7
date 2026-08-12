@@ -3,7 +3,7 @@
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&width=500&lines=Hello%2C+I'm+Lakshaya!+%F0%9F%91%8B;MCA+Candidate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&width=500&lines=Hello%2C+I'm+Lakshaya!+%F0%9F%91%8B;MCA+Candidate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 I am a **Master of Computer Applications (MCA)** candidate and an aspiring **Full-Stack Developer**. I specialize in building AI-integrated web applications, interactive software widgets, and I am currently exploring game development.
