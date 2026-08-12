@@ -1,5 +1,5 @@
 <!-- Pixelated Batman -->
-<img align="right" src="Batman Pixel Art" width="130" alt="Pixelated Batman" />
+<img align="right" src="Batman Pixel Art.jpg" width="130" alt="Pixelated Batman" />
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
