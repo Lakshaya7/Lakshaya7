@@ -1,22 +1,82 @@
-# 💫 About Me:
-# Hello, I'm Lakshaya! 👋<br><br>I am a **Master of Computer Applications (MCA)** candidate and an aspiring **Full-Stack Developer**. I specialize in building AI-integrated web applications and enjoy solving complex problems through efficient algorithms and clean architecture.<br><br>---<br><br>### 💻 Professional Skill Set<br><br>*   **Languages:** Python, Java, C++, JavaScript<br>*   **Web Technologies:** Django, HTML5, CSS3, JavaScript<br>*   **Databases:** MySQL, MongoDB (NoSQL)<br>*   **Specializations:** Data Structures & Algorithms (DSA), Machine Learning, Database Design<br>*   **Tools:** Git, GitHub, Canva, Dell Latitude Systems<br><br>---<br><br>### 🚀 Technical Projects<br><br>#### **HealthyIO | AI-Driven Wellness Platform**<br>*   Engineered a full-stack metabolic tracking platform using **Django** and **Python**.<br>*   Integrated **AI APIs** to provide real-time health insights and personalized data visualization.<br><br>#### **Automated Sudoku Solver**<br>*   Developed a desktop-integrated widget using Python that utilizes **Backtracking Algorithms** to solve complex puzzles efficiently.<br><br>---<br><br>### 🧠 What I'm Learning<br><br>*   **Machine Learning:** Currently deep-diving into **Linear Regression** models and predictive analytics.<br>*   **Advanced Web Frameworks:** Exploring further scalability within the Django ecosystem and asynchronous programming in Python.<br><br>### 🤝 Let's Collaborate!<br><br>I am looking to collaborate on:<br>*   **Open Source Projects:** Especially those involving Python, Django, or AI integration.<br>*   **Full-Stack Ventures:** I'm eager to contribute to projects that bridge the gap between robust backend logic and intuitive UI/UX.<br>*   **Tech for Good:** Any initiatives focused on accessibility or wellness-tech (like my work on *HealthyIO*).<br><br>---<br><br>### ⚡ Fun Facts & Interests<br><br>*   ⚽ Huge **Real Madrid** fan and a follower of **Cristiano Ronaldo**.<br>*   🏎️ In my downtime, you’ll find me on the virtual track playing **Monoposto**.<br>*   🖋️ Beyond coding, I led the sponsorship efforts for **RCMUN'26**, a major Model UN event.<br><br>---<br><br>### 🔗 Connect With Me<br><br>*   **LinkedIn:** https://www.linkedin.com/in/lakshaya-sharma01<br>*   **Email:** lakshaysharma6197@gmail.com<br><br>---<br>"Building scalable solutions, one commit at a time."
+<!-- Spidey Hanging Animation -->
+<img align="right" src="https://media.tenor.com/xT5-hW1hXoUAAAAi/spiderman-marvel.gif" width="130" alt="Spidey Hanging Upside Down" />
 
+<!-- Animated Typing Intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&width=500&lines=Hello%2C+I'm+Lakshaya!+%F0%9F%91%8B;MCA+Candidate+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshaya-sharma01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lakshay_6197) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshaysharma6197@gmail.com) 
+I am a **Master of Computer Applications (MCA)** candidate and an aspiring **Full-Stack Developer**. I specialize in building AI-integrated web applications and enjoy solving complex problems through efficient algorithms and clean architecture.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lakshaya7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lakshaya7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshaya7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Lakshaya7&icon=0&color=8)](https://visitcount.itsvg.in)
+### 💻 Professional Skill Set
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/lakshay7) 
+* **Languages:** Python, Java, C++, JavaScript
+* **Web Technologies:** Django, HTML5, CSS3, JavaScript
+* **Databases:** MySQL, MongoDB (NoSQL)
+* **Specializations:** Data Structures & Algorithms (DSA), Machine Learning, Database Design
+* **Tools:** Git, GitHub, Canva, Dell Latitude Systems
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### 🚀 Technical Projects
+
+#### HealthyIO | AI-Driven Wellness Platform
+* Engineered a full-stack metabolic tracking platform using **Django** and **Python**.
+* Integrated **AI APIs** to provide real-time health insights and personalized data visualization.
+
+#### Automated Sudoku Solver
+* Developed a desktop-integrated widget using Python that utilizes **Backtracking Algorithms** to solve complex puzzles efficiently.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### 🧠 What I'm Learning
+
+* **Machine Learning:** Currently deep-diving into **Linear Regression** models and predictive analytics.
+* **Advanced Web Frameworks:** Exploring further scalability within the Django ecosystem and asynchronous programming in Python.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### 🤝 Let's Collaborate!
+
+I am looking to collaborate on:
+* **Open Source Projects:** Especially those involving Python, Django, or AI integration.
+* **Full-Stack Ventures:** I'm eager to contribute to projects that bridge the gap between robust backend logic and intuitive UI/UX.
+* **Tech for Good:** Any initiatives focused on accessibility or wellness-tech (like my work on *HealthyIO*).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### ⚡ Fun Facts & Interests
+
+* ⚽ Huge **Real Madrid** fan and a follower of **Cristiano Ronaldo**.
+* 🏎️ In my downtime, you’ll find me on the virtual track playing **Monoposto**.
+* 🖋️ Beyond coding, I led the sponsorship efforts for **RCMUN'26**, a major Model UN event.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### 🔗 Connect With Me
+
+> *"Building scalable solutions, one commit at a time."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lakshaya-sharma01) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lakshaysharma6197@gmail.com)
+
+<br>
+
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,django,html,css,mysql,mongodb,git,github" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 💰 Support My Work:
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
