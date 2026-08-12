@@ -1,5 +1,5 @@
-<!-- Spidey Hanging Animation -->
-<img align="right" src="https://media.tenor.com/xT5-hW1hXoUAAAAi/spiderman-marvel.gif" width="130" alt="Spidey Hanging Upside Down" />
+<!-- Spidey Hanging Animation (Hosted on GitHub to prevent blocking) -->
+<img align="right" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Spiderman.gif" width="150" alt="Spidey Hanging Upside Down" />
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
