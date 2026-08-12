@@ -1,5 +1,5 @@
 <!-- Spidey Hanging Animation (Hosted on GitHub to prevent blocking) -->
-<img align="right" src="https://media3.giphy.com/media/xT5-hW1hXoUAAAAi/giphy.gif" width="130" alt="Spidey Hanging" />
+<img align="right" src="https://media.giphy.com/media/cukTKkj0pgLYIKbsg8/giphy.gif" width="130" alt="Pixel Spidey Hanging" />
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg">
